@@ -86,3 +86,11 @@ Adjust training parameters like epochs, batch size, and imgsz as needed.
 YOLOv8 nano (yolov8n.pt) is a lightweight model; for better accuracy try larger versions.
 
 
+![brand](https://github.com/user-attachments/assets/b58e83d5-7940-4daf-82c6-1c9842de16d3)
+
+
+
+
+
+
+
